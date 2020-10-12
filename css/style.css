@@ -1,0 +1,25 @@
+.o-app-body {
+    background-color: black;
+}
+.o-circular-logo {
+    height: 10vw;
+    margin-top: 5vh;
+    border-radius: 20px;
+}
+.o-app-slogan {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin-left: 5vw;
+    width: 90vw;
+    margin-bottom: 50vh;
+}
+
+.o-app-scan {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin-left: 42vw;
+    width: 16vw;
+    margin-bottom: 20vw;
+}
