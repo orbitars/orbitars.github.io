@@ -8,13 +8,20 @@
 }
 .o-app-slogan {
     position: absolute;
+    top: 0;
+    left: 0;
+    margin-left: 10vw;
+    width: 80vw;
+    margin-top: 5vh;
+}
+.o-app-logo {
+    position: absolute;
     bottom: 0;
     left: 0;
-    margin-left: 5vw;
-    width: 90vw;
-    margin-bottom: 50vh;
+    margin-left: 30vw;
+    width: 40vw;
+    margin-bottom: 45vh;
 }
-
 .o-app-scan {
     position: absolute;
     bottom: 0;
